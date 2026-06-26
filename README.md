@@ -2,6 +2,6 @@
 
 # NICAS documentation
 
-Theoretical background for the Normalized Interpolation Convolution on an Adaptive Subgrid (NICAS) method.
+This documentation is now obsolete, please refer to the following published article.
 
-If you find errors or typos, please contact me at: benjamin.menetrier@irit.fr
+Ménétrier, B.: The Normalized Interpolated Convolution from an Adaptive Subgrid (NICAS) method, Geosci. Model Dev., 19, 4497–4511, https://doi.org/10.5194/gmd-19-4497-2026, 2026.
